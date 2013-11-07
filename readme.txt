@@ -1,8 +1,3 @@
-redsuns-user-social
-===================
-
-Social management for users
-
 === Plugin Name ===
 Contributors: Andre Cardoso
 Donate link: 
@@ -61,5 +56,4 @@ Examples:
 
 = 1.0.0 =
 Created this plugin
-
 

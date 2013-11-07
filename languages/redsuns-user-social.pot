@@ -1,0 +1,40 @@
+# Translation to [Your language]
+
+msgid "Professional"
+msgstr ""
+
+msgid "Job Title"
+msgstr ""
+
+msgid "Type a description for your job"
+msgstr ""
+
+msgid "Skills"
+msgstr ""
+
+msgid "Type a technology and how you think dominate it"
+msgstr ""
+
+msgid "Technology"
+msgstr ""
+
+msgid "- Dominate -"
+msgstr ""
+
+msgid "Your current skills"
+msgstr ""
+
+msgid "Impact statement"
+msgstr ""
+
+msgid "Type a description of you, it will be displayed in your profile"
+msgstr ""
+
+msgid "Featured image"
+msgstr ""
+
+msgid "If exists, the featured image will appear at your profile"
+msgstr ""
+
+msgid "Are you sure you want to remove this skill?"
+msgstr ""

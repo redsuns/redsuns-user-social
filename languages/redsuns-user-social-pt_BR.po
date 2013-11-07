@@ -1,0 +1,40 @@
+# Translation to Brazilian Portuguese
+
+msgid "Professional"
+msgstr "Profissional"
+
+msgid "Job Title"
+msgstr "Profissão"
+
+msgid "Type a description for your job"
+msgstr "Informe sua profissão"
+
+msgid "Skills"
+msgstr "Habilidades"
+
+msgid "Type a technology and how you think dominate it"
+msgstr "Informe a tecnologia e o percentual que acredita dominar"
+
+msgid "Technology"
+msgstr "Tecnologia"
+
+msgid "- Dominate -"
+msgstr "- Domino -"
+
+msgid "Your current skills"
+msgstr "Habilidades atuais"
+
+msgid "Impact statement"
+msgstr "Sua frase de impacto"
+
+msgid "Type a description of you, it will be displayed in your profile"
+msgstr "Redija um pequeno texto que será exibido em seu perfil"
+
+msgid "Featured image"
+msgstr "Imagem destacada"
+
+msgid "If exists, the featured image will appear at your profile"
+msgstr "Se presente a imagem aparecerá em seu perfil no site"
+
+msgid "Are you sure you want to remove this skill?"
+msgstr "Deseja realmente remover esta habilidade?"
